@@ -34,7 +34,6 @@ const item: Variants = {
 
 function IconBadge({
   children,
-  label,
 }: {
   children: React.ReactNode;
   label?: string;
